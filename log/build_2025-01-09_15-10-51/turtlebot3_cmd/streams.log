@@ -1,0 +1,19 @@
+[0.663s] Invoking command in '/home/root2/turtlebot3_ws/build/turtlebot3_cmd': PYTHONPATH=/home/root2/turtlebot3_ws/build/turtlebot3_cmd/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/root2/turtlebot3_ws/install/turtlebot3_cmd/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/root2/turtlebot3_ws/build/turtlebot3_cmd/build --no-deps symlink_data --force
+[0.867s] running develop
+[0.966s] running egg_info
+[0.966s] writing turtlebot3_cmd.egg-info/PKG-INFO
+[0.966s] writing dependency_links to turtlebot3_cmd.egg-info/dependency_links.txt
+[0.966s] writing entry points to turtlebot3_cmd.egg-info/entry_points.txt
+[0.967s] writing requirements to turtlebot3_cmd.egg-info/requires.txt
+[0.967s] writing top-level names to turtlebot3_cmd.egg-info/top_level.txt
+[0.969s] reading manifest file 'turtlebot3_cmd.egg-info/SOURCES.txt'
+[0.970s] writing manifest file 'turtlebot3_cmd.egg-info/SOURCES.txt'
+[0.971s] running build_ext
+[0.972s] Creating /home/root2/turtlebot3_ws/install/turtlebot3_cmd/lib/python3.10/site-packages/turtlebot3-cmd.egg-link (link to .)
+[0.972s] Installing turtlebot3_cmd script to /home/root2/turtlebot3_ws/install/turtlebot3_cmd/lib/turtlebot3_cmd
+[0.972s] 
+[0.972s] Installed /home/root2/turtlebot3_ws/build/turtlebot3_cmd
+[0.973s] running symlink_data
+[0.973s] symbolically linking /home/root2/turtlebot3_ws/build/turtlebot3_cmd/resource/turtlebot3_cmd -> /home/root2/turtlebot3_ws/install/turtlebot3_cmd/share/ament_index/resource_index/packages
+[0.975s] symbolically linking /home/root2/turtlebot3_ws/build/turtlebot3_cmd/package.xml -> /home/root2/turtlebot3_ws/install/turtlebot3_cmd/share/turtlebot3_cmd
+[1.004s] Invoked command in '/home/root2/turtlebot3_ws/build/turtlebot3_cmd' returned '0': PYTHONPATH=/home/root2/turtlebot3_ws/build/turtlebot3_cmd/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/root2/turtlebot3_ws/install/turtlebot3_cmd/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/root2/turtlebot3_ws/build/turtlebot3_cmd/build --no-deps symlink_data --force

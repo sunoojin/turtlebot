@@ -1,0 +1,43 @@
+running egg_info
+creating ../../build/turtlebot3_cmd/turtlebot3_cmd.egg-info
+writing ../../build/turtlebot3_cmd/turtlebot3_cmd.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtlebot3_cmd/turtlebot3_cmd.egg-info/dependency_links.txt
+writing entry points to ../../build/turtlebot3_cmd/turtlebot3_cmd.egg-info/entry_points.txt
+writing requirements to ../../build/turtlebot3_cmd/turtlebot3_cmd.egg-info/requires.txt
+writing top-level names to ../../build/turtlebot3_cmd/turtlebot3_cmd.egg-info/top_level.txt
+writing manifest file '../../build/turtlebot3_cmd/turtlebot3_cmd.egg-info/SOURCES.txt'
+reading manifest file '../../build/turtlebot3_cmd/turtlebot3_cmd.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtlebot3_cmd/turtlebot3_cmd.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/root2/turtlebot3_ws/build/turtlebot3_cmd/build
+creating /home/root2/turtlebot3_ws/build/turtlebot3_cmd/build/lib
+creating /home/root2/turtlebot3_ws/build/turtlebot3_cmd/build/lib/turtlebot3_cmd
+copying turtlebot3_cmd/__init__.py -> /home/root2/turtlebot3_ws/build/turtlebot3_cmd/build/lib/turtlebot3_cmd
+creating /home/root2/turtlebot3_ws/build/turtlebot3_cmd/build/lib/turtlebot3_cmd/script
+copying turtlebot3_cmd/script/yolo_detection.py -> /home/root2/turtlebot3_ws/build/turtlebot3_cmd/build/lib/turtlebot3_cmd/script
+copying turtlebot3_cmd/script/turtlebot3_cmd.py -> /home/root2/turtlebot3_ws/build/turtlebot3_cmd/build/lib/turtlebot3_cmd/script
+copying turtlebot3_cmd/script/__init__.py -> /home/root2/turtlebot3_ws/build/turtlebot3_cmd/build/lib/turtlebot3_cmd/script
+running install
+running install_lib
+creating /home/root2/turtlebot3_ws/install/turtlebot3_cmd/lib/python3.10/site-packages/turtlebot3_cmd
+creating /home/root2/turtlebot3_ws/install/turtlebot3_cmd/lib/python3.10/site-packages/turtlebot3_cmd/script
+copying /home/root2/turtlebot3_ws/build/turtlebot3_cmd/build/lib/turtlebot3_cmd/script/yolo_detection.py -> /home/root2/turtlebot3_ws/install/turtlebot3_cmd/lib/python3.10/site-packages/turtlebot3_cmd/script
+copying /home/root2/turtlebot3_ws/build/turtlebot3_cmd/build/lib/turtlebot3_cmd/script/turtlebot3_cmd.py -> /home/root2/turtlebot3_ws/install/turtlebot3_cmd/lib/python3.10/site-packages/turtlebot3_cmd/script
+copying /home/root2/turtlebot3_ws/build/turtlebot3_cmd/build/lib/turtlebot3_cmd/script/__init__.py -> /home/root2/turtlebot3_ws/install/turtlebot3_cmd/lib/python3.10/site-packages/turtlebot3_cmd/script
+copying /home/root2/turtlebot3_ws/build/turtlebot3_cmd/build/lib/turtlebot3_cmd/__init__.py -> /home/root2/turtlebot3_ws/install/turtlebot3_cmd/lib/python3.10/site-packages/turtlebot3_cmd
+byte-compiling /home/root2/turtlebot3_ws/install/turtlebot3_cmd/lib/python3.10/site-packages/turtlebot3_cmd/script/yolo_detection.py to yolo_detection.cpython-310.pyc
+byte-compiling /home/root2/turtlebot3_ws/install/turtlebot3_cmd/lib/python3.10/site-packages/turtlebot3_cmd/script/turtlebot3_cmd.py to turtlebot3_cmd.cpython-310.pyc
+byte-compiling /home/root2/turtlebot3_ws/install/turtlebot3_cmd/lib/python3.10/site-packages/turtlebot3_cmd/script/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/root2/turtlebot3_ws/install/turtlebot3_cmd/lib/python3.10/site-packages/turtlebot3_cmd/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/root2/turtlebot3_ws/install/turtlebot3_cmd/share/ament_index
+creating /home/root2/turtlebot3_ws/install/turtlebot3_cmd/share/ament_index/resource_index
+creating /home/root2/turtlebot3_ws/install/turtlebot3_cmd/share/ament_index/resource_index/packages
+copying resource/turtlebot3_cmd -> /home/root2/turtlebot3_ws/install/turtlebot3_cmd/share/ament_index/resource_index/packages
+copying package.xml -> /home/root2/turtlebot3_ws/install/turtlebot3_cmd/share/turtlebot3_cmd
+running install_egg_info
+Copying ../../build/turtlebot3_cmd/turtlebot3_cmd.egg-info to /home/root2/turtlebot3_ws/install/turtlebot3_cmd/lib/python3.10/site-packages/turtlebot3_cmd-0.0.0-py3.10.egg-info
+running install_scripts
+Installing turtlebot3_cmd script to /home/root2/turtlebot3_ws/install/turtlebot3_cmd/lib/turtlebot3_cmd
+writing list of installed files to '/home/root2/turtlebot3_ws/build/turtlebot3_cmd/install.log'

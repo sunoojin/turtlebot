@@ -1,0 +1,45 @@
+[1.058s] Invoking command in '/home/root2/turtlebot3_ws/src/turtlebot3_cmd': PYTHONPATH=/home/root2/turtlebot3_ws/build/turtlebot3_cmd/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/root2/turtlebot3_ws/install/turtlebot3_cmd/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlebot3_cmd build --build-base /home/root2/turtlebot3_ws/build/turtlebot3_cmd/build install --record /home/root2/turtlebot3_ws/build/turtlebot3_cmd/install.log --single-version-externally-managed install_data
+[1.341s] running egg_info
+[1.341s] creating ../../build/turtlebot3_cmd/turtlebot3_cmd.egg-info
+[1.349s] writing ../../build/turtlebot3_cmd/turtlebot3_cmd.egg-info/PKG-INFO
+[1.371s] writing dependency_links to ../../build/turtlebot3_cmd/turtlebot3_cmd.egg-info/dependency_links.txt
+[1.371s] writing entry points to ../../build/turtlebot3_cmd/turtlebot3_cmd.egg-info/entry_points.txt
+[1.371s] writing requirements to ../../build/turtlebot3_cmd/turtlebot3_cmd.egg-info/requires.txt
+[1.371s] writing top-level names to ../../build/turtlebot3_cmd/turtlebot3_cmd.egg-info/top_level.txt
+[1.372s] writing manifest file '../../build/turtlebot3_cmd/turtlebot3_cmd.egg-info/SOURCES.txt'
+[1.372s] reading manifest file '../../build/turtlebot3_cmd/turtlebot3_cmd.egg-info/SOURCES.txt'
+[1.372s] writing manifest file '../../build/turtlebot3_cmd/turtlebot3_cmd.egg-info/SOURCES.txt'
+[1.372s] running build
+[1.372s] running build_py
+[1.372s] creating /home/root2/turtlebot3_ws/build/turtlebot3_cmd/build
+[1.375s] creating /home/root2/turtlebot3_ws/build/turtlebot3_cmd/build/lib
+[1.375s] creating /home/root2/turtlebot3_ws/build/turtlebot3_cmd/build/lib/turtlebot3_cmd
+[1.375s] copying turtlebot3_cmd/__init__.py -> /home/root2/turtlebot3_ws/build/turtlebot3_cmd/build/lib/turtlebot3_cmd
+[1.375s] creating /home/root2/turtlebot3_ws/build/turtlebot3_cmd/build/lib/turtlebot3_cmd/script
+[1.375s] copying turtlebot3_cmd/script/yolo_detection.py -> /home/root2/turtlebot3_ws/build/turtlebot3_cmd/build/lib/turtlebot3_cmd/script
+[1.375s] copying turtlebot3_cmd/script/turtlebot3_cmd.py -> /home/root2/turtlebot3_ws/build/turtlebot3_cmd/build/lib/turtlebot3_cmd/script
+[1.375s] copying turtlebot3_cmd/script/__init__.py -> /home/root2/turtlebot3_ws/build/turtlebot3_cmd/build/lib/turtlebot3_cmd/script
+[1.375s] running install
+[1.375s] running install_lib
+[1.376s] creating /home/root2/turtlebot3_ws/install/turtlebot3_cmd/lib/python3.10/site-packages/turtlebot3_cmd
+[1.376s] creating /home/root2/turtlebot3_ws/install/turtlebot3_cmd/lib/python3.10/site-packages/turtlebot3_cmd/script
+[1.376s] copying /home/root2/turtlebot3_ws/build/turtlebot3_cmd/build/lib/turtlebot3_cmd/script/yolo_detection.py -> /home/root2/turtlebot3_ws/install/turtlebot3_cmd/lib/python3.10/site-packages/turtlebot3_cmd/script
+[1.376s] copying /home/root2/turtlebot3_ws/build/turtlebot3_cmd/build/lib/turtlebot3_cmd/script/turtlebot3_cmd.py -> /home/root2/turtlebot3_ws/install/turtlebot3_cmd/lib/python3.10/site-packages/turtlebot3_cmd/script
+[1.376s] copying /home/root2/turtlebot3_ws/build/turtlebot3_cmd/build/lib/turtlebot3_cmd/script/__init__.py -> /home/root2/turtlebot3_ws/install/turtlebot3_cmd/lib/python3.10/site-packages/turtlebot3_cmd/script
+[1.376s] copying /home/root2/turtlebot3_ws/build/turtlebot3_cmd/build/lib/turtlebot3_cmd/__init__.py -> /home/root2/turtlebot3_ws/install/turtlebot3_cmd/lib/python3.10/site-packages/turtlebot3_cmd
+[1.376s] byte-compiling /home/root2/turtlebot3_ws/install/turtlebot3_cmd/lib/python3.10/site-packages/turtlebot3_cmd/script/yolo_detection.py to yolo_detection.cpython-310.pyc
+[1.376s] byte-compiling /home/root2/turtlebot3_ws/install/turtlebot3_cmd/lib/python3.10/site-packages/turtlebot3_cmd/script/turtlebot3_cmd.py to turtlebot3_cmd.cpython-310.pyc
+[1.376s] byte-compiling /home/root2/turtlebot3_ws/install/turtlebot3_cmd/lib/python3.10/site-packages/turtlebot3_cmd/script/__init__.py to __init__.cpython-310.pyc
+[1.376s] byte-compiling /home/root2/turtlebot3_ws/install/turtlebot3_cmd/lib/python3.10/site-packages/turtlebot3_cmd/__init__.py to __init__.cpython-310.pyc
+[1.376s] running install_data
+[1.376s] creating /home/root2/turtlebot3_ws/install/turtlebot3_cmd/share/ament_index
+[1.376s] creating /home/root2/turtlebot3_ws/install/turtlebot3_cmd/share/ament_index/resource_index
+[1.377s] creating /home/root2/turtlebot3_ws/install/turtlebot3_cmd/share/ament_index/resource_index/packages
+[1.377s] copying resource/turtlebot3_cmd -> /home/root2/turtlebot3_ws/install/turtlebot3_cmd/share/ament_index/resource_index/packages
+[1.377s] copying package.xml -> /home/root2/turtlebot3_ws/install/turtlebot3_cmd/share/turtlebot3_cmd
+[1.377s] running install_egg_info
+[1.377s] Copying ../../build/turtlebot3_cmd/turtlebot3_cmd.egg-info to /home/root2/turtlebot3_ws/install/turtlebot3_cmd/lib/python3.10/site-packages/turtlebot3_cmd-0.0.0-py3.10.egg-info
+[1.382s] running install_scripts
+[1.407s] Installing turtlebot3_cmd script to /home/root2/turtlebot3_ws/install/turtlebot3_cmd/lib/turtlebot3_cmd
+[1.408s] writing list of installed files to '/home/root2/turtlebot3_ws/build/turtlebot3_cmd/install.log'
+[1.439s] Invoked command in '/home/root2/turtlebot3_ws/src/turtlebot3_cmd' returned '0': PYTHONPATH=/home/root2/turtlebot3_ws/build/turtlebot3_cmd/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/root2/turtlebot3_ws/install/turtlebot3_cmd/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlebot3_cmd build --build-base /home/root2/turtlebot3_ws/build/turtlebot3_cmd/build install --record /home/root2/turtlebot3_ws/build/turtlebot3_cmd/install.log --single-version-externally-managed install_data
